@@ -1,0 +1,53 @@
+body{
+    font-family: Georgia, serif;
+    margin: 0px;
+}
+
+h1{font-size:45px;
+    font-family: 'Redressed', cursive;
+    color: rgb(0, 0, 0);
+    
+}
+#change-color{
+    color:rgb(62, 12, 75);
+   
+}
+
+p{
+color:black;
+font-weight: 500;
+margin-bottom:40px;
+margin-top:40px;
+}
+.modify-button{
+ text-decoration:none;
+ padding:20px 50px;
+ background-color:rgb(17, 17, 112);
+ color:white;
+ border-radius:5px;
+
+ 
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding:2%;
+
+}
+.half-width img{
+ width:100%;
+ margin-top:10%;
+ 
+ 
+}
+#edited-button{
+    text-decoration:none;
+    padding:20px 50px;
+    background-image: linear-gradient(50deg, rgb(8, 175, 252) ,rgb(0, 255, 213));
+    color:white;
+    border-radius:5px;
+    font-weight:900;
+
+
+}
