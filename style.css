@@ -129,3 +129,7 @@ h5{
     font-size:3em;
     font-weight:700;
 }
+#marquee{
+    color:blue;
+    scrollamount:"10";
+}
